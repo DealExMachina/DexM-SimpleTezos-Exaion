@@ -8,21 +8,21 @@ body {
 }
 
 h1 {
-  color: #FF66CC;
+  color: #EC660B;
 }
 
 #dialog {
   display: flex;
   flex-direction: column;
   width: 500px;
-  border: 1px solid #FF66CC;
+  border: 1px solid #EC660B;
   border-radius: 3px;
 }
 
 #header {
   font-size: 28px;
   padding: 20px;
-  background-color: #552244;
+  background-color: #F7B07A;
   color: white;
 }
 
@@ -77,7 +77,7 @@ h1 {
   height: 50px;
   margin-top: 20px;
   font-size: 48px;
-  color: #333;
+  color: #FF8010;
 }
 
 #error-message {
